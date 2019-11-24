@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.662f20e6.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.662f20e6.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.e1bf85e2.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.e1bf85e2.js.map",
-    "static/js/2.3247d578.chunk.js": "/react-gh-pages/static/js/2.3247d578.chunk.js",
-    "static/js/2.3247d578.chunk.js.map": "/react-gh-pages/static/js/2.3247d578.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.1a3f6ee7.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.da0439a1.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.da0439a1.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.ead2228f.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.ead2228f.js.map",
+    "static/css/2.b617e296.chunk.css": "/react-gh-pages/static/css/2.b617e296.chunk.css",
+    "static/js/2.ec67b9e4.chunk.js": "/react-gh-pages/static/js/2.ec67b9e4.chunk.js",
+    "static/js/2.ec67b9e4.chunk.js.map": "/react-gh-pages/static/js/2.ec67b9e4.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.e1d59249086813173509fd3672e3ff9c.js": "/react-gh-pages/precache-manifest.e1d59249086813173509fd3672e3ff9c.js",
+    "precache-manifest.d2f4bf84c79fd7672c34e886ecd907f2.js": "/react-gh-pages/precache-manifest.d2f4bf84c79fd7672c34e886ecd907f2.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/react-gh-pages/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
-  }
+    "static/css/2.b617e296.chunk.css.map": "/react-gh-pages/static/css/2.b617e296.chunk.css.map",
+    "static/css/main.1a3f6ee7.chunk.css.map": "/react-gh-pages/static/css/main.1a3f6ee7.chunk.css.map",
+    "static/media/a2hosting.png": "/react-gh-pages/static/media/a2hosting.369b65b8.png",
+    "static/media/algoRhythm.png": "/react-gh-pages/static/media/algoRhythm.2d9346e6.png",
+    "static/media/cse.svg": "/react-gh-pages/static/media/cse.fe562952.svg",
+    "static/media/events.svg": "/react-gh-pages/static/media/events.cc5ce634.svg",
+    "static/media/future.svg": "/react-gh-pages/static/media/future.6edc5da8.svg",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.99ff917c.png",
+    "static/media/mlive.svg": "/react-gh-pages/static/media/mlive.8c5c03dd.svg",
+    "static/media/temp1.md": "/react-gh-pages/static/media/temp1.0fdf7471.md",
+    "static/media/temp2.md": "/react-gh-pages/static/media/temp2.e00a3ef1.md",
+    "static/media/temp3.md": "/react-gh-pages/static/media/temp3.0261c447.md",
+    "static/media/workshop_flyer.png": "/react-gh-pages/static/media/workshop_flyer.6455065e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead2228f.js",
+    "static/css/2.b617e296.chunk.css",
+    "static/js/2.ec67b9e4.chunk.js",
+    "static/css/main.1a3f6ee7.chunk.css",
+    "static/js/main.da0439a1.chunk.js"
+  ]
 }
